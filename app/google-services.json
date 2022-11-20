@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901961349510",
+    "project_id": "firestore-dfd87",
+    "storage_bucket": "firestore-dfd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901961349510:android:e33f9438de7b2f91e31407",
+        "android_client_info": {
+          "package_name": "com.MohrafliF55121111.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901961349510-1no90n8kl6q88m3tgbt9esdii74addt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA831opCX2UIZ-CZnKVXMEbuCtirUZxxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901961349510-1no90n8kl6q88m3tgbt9esdii74addt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
